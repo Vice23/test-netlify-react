@@ -5,8 +5,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+        <h1>Moriah Was Here 🦊</h1>
         <p>
-          Moriah Was Here 🦊
+          Hello World 🌎
         </p>
         <a
           className="App-link"
